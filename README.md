@@ -47,3 +47,5 @@ You can install the program by downloading the provided .zip file and unzipping 
 10. This is the canvas workspace, all images and text will appear here.
 
 > You can only manipulate the RAW image in the canvas via mouse dragging. The image can only be dragged by the parts of the image sticking out from behind the card template. If you can't move the image try making it larger and try again.
+
+# [Install](https://github.com/rabalais/card_converter/archive/refs/heads/main.zip)
