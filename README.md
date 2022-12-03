@@ -8,7 +8,7 @@ This program is bare bones and ugly. It has some odd quirks.
 
 ## Install Instructions
 
-You can install the program by downloading the provided .zip file and unzipping it. Leave all files in the folder including the .exe!
+You can install the program by clicking install at the bottom AFTER reading this. Leave all files in the folder including the .exe!
 
 ## Use Instructions
 
