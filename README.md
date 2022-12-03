@@ -1,4 +1,4 @@
-# card_converter
+# Card Converter
 
 Card Converter made for use by waifu club discord server members.
 
