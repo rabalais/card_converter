@@ -1,5 +1,7 @@
 # Card Converter
 
+### :warning: READ ALL INSTRUCTIONS BEFORE USING SOFTWARE. :warning: ###
+
 Card Converter made for use by waifu club discord server members.
 
 This program is bare bones and ugly. It has some odd quirks.
